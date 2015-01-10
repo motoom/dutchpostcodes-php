@@ -1,0 +1,13 @@
+{
+    "name": "motoom/dutchpostcodes-php",
+    "autoload": {
+        "psr-4": {
+            "Motoom\\Dutchpostcodes\\": "src/"
+            }
+        }
+    "autoload-dev": {
+        "psr-4": {
+            "Motoom\\Dutchpostcodes\\Tests": "tests/"
+            }
+        }
+}
